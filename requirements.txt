@@ -1,0 +1,2 @@
+mistralai~=1.8.2
+aiogram~=3.20.0.post0
